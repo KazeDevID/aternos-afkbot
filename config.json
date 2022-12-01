@@ -1,5 +1,5 @@
 {
-	"host" : "RandomSkyblockHF.aternos.me" ,
+	"host" : "add.aternos.org/RandomSkyblockHF" ,
 	"port": "28593",
 	"username": "RandomSkyblockBOTZ",
 	"logger": [ true
